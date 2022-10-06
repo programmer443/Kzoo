@@ -1,0 +1,44 @@
+[
+  {
+    "id" : "serengeti",
+    "name" : "Hingol National Park",
+    "image" : "map-serengeti",
+    "latitude" : 25.6,
+    "longitude" : 65.666667
+  },
+  {
+    "id" : "kruger",
+    "name" : "Central Karakoram National Park",
+    "image" : "map-kruger",
+    "latitude" : 35.900093,
+    "longitude" : 75.527672
+  },
+  {
+    "id" : "chobe",
+    "name" : "Ayub National Park",
+    "image" : "map-chobe",
+    "latitude" : 33.571944,
+    "longitude" : 73.083056
+  },
+  {
+    "id" : "kidepo",
+    "name" : "Khunjerab National Park",
+    "image" : "map-kidepo",
+    "latitude" : 36.5034,
+    "longitude" : 75.6206
+  },
+  {
+    "id" : "etosha",
+    "name" : "Deosai National Park",
+    "image" : "map-etosha",
+    "latitude" : 34.966667,
+    "longitude" : 75.4
+  },
+  {
+    "id" : "solonga",
+    "name" : "Chitral National Park",
+    "image" : "map-solonga",
+    "latitude" : 35.933333,
+    "longitude" : 71.666667
+  }
+]
